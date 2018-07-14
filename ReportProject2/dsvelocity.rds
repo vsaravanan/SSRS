@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="dsvelocity">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=ROG\SQLEXPRESS;Initial Catalog=velocity;Persist Security Info=True;User ID=sqluser;Password=pwd</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>501714ae-7461-4a30-a426-c95eded71e02</DataSourceID>
+</RptDataSource>
